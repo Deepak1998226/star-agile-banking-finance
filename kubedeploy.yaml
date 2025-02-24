@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: container-mvn-container
-        image: deepak607/Banking-eta-app
+        image: deepak607/banking-eta-app
         ports:
         - containerPort: 8081
 ---
